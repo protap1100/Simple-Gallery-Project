@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "category": "Electronics",
+    "popularity": 85,
+    "image": "https://via.placeholder.com/150",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "price": 39.99,
+    "category": "Electronics",
+    "popularity": 90,
+    "image": "https://via.placeholder.com/150",
+    "description": "Portable Bluetooth speaker with amazing sound quality."
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse",
+    "price": 29.99,
+    "category": "Accessories",
+    "popularity": 80,
+    "image": "https://via.placeholder.com/150",
+    "description": "Ergonomic gaming mouse with customizable buttons."
+  },
+  {
+    "id": 4,
+    "name": "Laptop Backpack",
+    "price": 49.99,
+    "category": "Accessories",
+    "popularity": 70,
+    "image": "https://via.placeholder.com/150",
+    "description": "Durable laptop backpack with multiple compartments."
+  },
+  {
+    "id": 5,
+    "name": "Running Shoes",
+    "price": 79.99,
+    "category": "Footwear",
+    "popularity": 95,
+    "image": "https://via.placeholder.com/150",
+    "description": "Comfortable running shoes with superior grip and support."
+  },
+  {
+    "id": 6,
+    "name": "Smart Watch",
+    "price": 129.99,
+    "category": "Electronics",
+    "popularity": 88,
+    "image": "https://via.placeholder.com/150",
+    "description": "Feature-rich smartwatch with fitness tracking capabilities."
+  },
+  {
+    "id": 7,
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "category": "Electronics",
+    "popularity": 75,
+    "image": "https://via.placeholder.com/150",
+    "description": "Lightweight fitness tracker with heart rate monitoring."
+  },
+  {
+    "id": 8,
+    "name": "Leather Wallet",
+    "price": 19.99,
+    "category": "Accessories",
+    "popularity": 65,
+    "image": "https://via.placeholder.com/150",
+    "description": "Premium leather wallet with multiple card slots."
+  },
+  {
+    "id": 9,
+    "name": "Sunglasses",
+    "price": 24.99,
+    "category": "Accessories",
+    "popularity": 78,
+    "image": "https://via.placeholder.com/150",
+    "description": "Stylish polarized sunglasses for outdoor activities."
+  },
+  {
+    "id": 10,
+    "name": "Casual Sneakers",
+    "price": 59.99,
+    "category": "Footwear",
+    "popularity": 85,
+    "image": "https://via.placeholder.com/150",
+    "description": "Trendy and comfortable casual sneakers for daily wear."
+  }
+]
